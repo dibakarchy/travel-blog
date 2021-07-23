@@ -1,0 +1,58 @@
+
+
+
+.review{
+    padding:50px;
+}
+.client{
+    background-color: #011144;
+    padding: 26px;
+    color: #ffffffc5;
+    text-align: center;
+}
+.client p {
+    margin-left: 15px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+.image{
+    margin-left: 20px;
+}
+ .coin{
+    color: rgb(240, 219, 216);
+}
+.far{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+
+.world{
+    background-color:black;
+    height:400px;
+    padding:120px;
+    color: white;
+    
+}
+span{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(247, 205, 15, 0.89);
+}
+
+.blog  img{
+    transition: 1s;
+}
+.blog img:hover{
+    transform: scale(0.8);
+
+}
+
+.blogs{
+    transition: 0.5s ease-out;
+}
+.blogs:hover{
+    transform: scale(0.9);
+}
+
+
